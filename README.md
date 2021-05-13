@@ -2,7 +2,7 @@
 This is a simple CRUD Application that connects to a database. Users can be created, retrieved, updated, and deleted.
 
 ## Author
-[@CtripleU](https://github.com/TunrayoIlawole)
+[@CtripleU](https://github.com/CtripleU)
 
 ## Technologies used
 - ExpressJs
