@@ -15,3 +15,6 @@ This is a simple CRUD Application that connects to a database. Users can be crea
 - /api/users/id PUT request Updates an existing user
 - /api/users/id DELETE request Deletes an existing user 
 
+
+## Heroku address
+https://lit-garden-74602.herokuapp.com/api/users
